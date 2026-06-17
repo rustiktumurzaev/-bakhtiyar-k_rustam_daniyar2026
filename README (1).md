@@ -47,5 +47,5 @@ Best model was Logistic Regression. All three models performed well on the test 
 
 | Name | What they did |
 |------|--------------|
-| Member 1 | Data preparation, text preprocessing, evaluation, report |
-| Member 2 | Model training, visualization, GitHub, demo video |
+| Rustam | Data preparation, text preprocessing, evaluation, report |
+| Daniyar | Model training, visualization, GitHub, demo video |
